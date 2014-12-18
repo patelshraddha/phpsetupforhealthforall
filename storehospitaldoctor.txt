@@ -1,0 +1,38 @@
+<?php ini_set('memory_limit', '-1'); 
+/* All detail details are read from HTTP Post Request
+ */
+ 
+// array for JSON response
+$response = array();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+?>
